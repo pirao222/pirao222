@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Estudante%20de%20Tecnologia-blue?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Localizacao-Brasilia%20--%20Distrito%20Federal-lightgrey?style=flat-square" alt="Localização" alt="Localização" />
+  <img src="https://img.shields.io/badge/Localizacao-Brasilia%20--%20Distrito%20Federal-lightgrey?style=flat-square" alt="Localização" />
 </p>
 
 Estudante de Ciências da Computação no UniCeub, apaixonado por tecnologia e em constante evolução. Buscando minha primeira experiência profissional na área de TI. 
