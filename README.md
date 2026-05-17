@@ -62,18 +62,6 @@ Aqui estão os principais repositórios que mostram o que sei fazer na prática:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-Abaixo, um resumo automatizado do meu engajamento na plataforma:
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pirao222&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirao222&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
-*(Importante: Substitua `[SEU-USUARIO-AQUI]` pelo seu nome de usuário do GitHub para os gráficos funcionarem).*
-
----
 
 ### 🤝 Vamos nos conectar?
 
