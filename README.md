@@ -32,6 +32,10 @@ Aqui estão as ferramentas e tecnologias com as quais tenho afinidade ou estou e
       <br />CSS3
     </td>
     <td align="center" width="110">
+      <img src="https://education.oracle.com/file/general/p-80-java.png" width="40" height="40" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="110">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="40" height="40" alt="Python" />
       <br />Python
     <td align="center" width="110">
