@@ -32,7 +32,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho afinidade ou estou e
       <br />CSS3
     </td>
     <td align="center" width="110">
-      <img src="https://education.oracle.com/file/general/p-80-java.svg" width="40" height="40" alt="Java" />
+      <img src="https://www.infoescola.com/wp-content/uploads/2011/03/java.jpg" width="40" height="40" alt="Java" />
       <br />Java
     </td>
     <td align="center" width="110">
